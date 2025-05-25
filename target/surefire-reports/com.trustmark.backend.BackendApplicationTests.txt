@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.trustmark.backend.BackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.215 s -- in com.trustmark.backend.BackendApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.977 s -- in com.trustmark.backend.BackendApplicationTests
